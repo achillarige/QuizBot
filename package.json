@@ -1,0 +1,6 @@
+{
+  "name": "QuizBot",
+  "dependencies": {
+    "facebook-chat-api": "^1.1.0"
+  }
+}
